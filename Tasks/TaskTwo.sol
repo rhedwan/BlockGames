@@ -4,7 +4,7 @@ pragma solidity ^0.8.12;
 contract HelloWorld{
     string message ;
 
-    constructor() public{
+    constructor(){
         message = "Hello World";
     }
 
