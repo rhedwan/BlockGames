@@ -4,4 +4,4 @@ This repo contains code written Solidity.
 
 BlockGames Task 2
 
-Deployed contract's address: https://rinkeby.etherscan.io/address/0xa24f12fd45dae7b77d5d2aa8cfc9234d857ffbb6
+Deployed contract's address: https://rinkeby.etherscan.io/address/0x5f9e0623af6e404804ddb63f8dec0504ab407688
